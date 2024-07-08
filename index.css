@@ -1,0 +1,36 @@
+body {
+color: black;
+
+	background-color: lightpink;
+}
+
+h1 {
+font-size: 2000;
+}
+
+ img {
+
+	width: 350px;
+    height: 350px;
+    border-radius: 30%;
+}
+
+h1 {
+font-style: initial;
+
+}
+
+div img {
+
+width: 150px;
+height: 150px;
+border-radius: 50%;
+
+}
+
+botton {
+tab-size: 50px}
+
+
+
+
